@@ -91,3 +91,11 @@ whitespace (e.g. non-breaking spaces).
 ⚠️ Limitation: `TABLE` **must** be a 2-D array. Writing it as a set like `{"a","b"}`
 makes the column count ambiguous, so that table is skipped.
 Any missing value is always filled with a default (no error).
+
+## License
+Copyright (C) 2026 Phakin Wongveerapaiboon &lt;kim@pioms.org&gt;
+
+This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).
+You may use, modify, and redistribute it, but any distributed derivative work
+must also be released as open source under the same GPL-3.0 license.
+See the [LICENSE](LICENSE) file for the full text.

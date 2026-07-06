@@ -1,0 +1,106 @@
+// "THEME": ["Bright1"|"Bright2"|"Bright3"|"Dark1"|"Dark2"|"Dark3"]
+// "PAGE_LAYOUT": ["Title"|"Section"|"Single_Content"|"Two_Content"|"Tree_Content"|"Four_Content"|"Picture_Content"|"Table_Content"]
+
+"HEADER":{
+    "LOGO_LINK":"https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg",
+    "THEME":"Bright1",
+    "FONT_HEADINGS":"Posterama",
+    "FONT_BODY":"Daytona Condensed Light",
+    "PAGE_NUMBER":True
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Title",
+    "PAGE_TITLE":"Scientific Discovery",
+    "PAGE_SUBTITLE":"Molecular biology"        
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Single_Content"
+    "PAGE_TITLE":"Agenda"
+    "PAGE_CONTENT": {
+        "BULLET":[
+            "About us",
+            "Product overview"
+            "History of molecular biology",
+            "Growth Strategy",
+            "Proguct Growth Ansoff Matrix",
+            "Financials"
+            "Summary"
+        ]
+    }        
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Picture_Content"
+    "PAGE_TITLE":"Product overview"
+    "PAGE_CONTENT": {
+        "PICTURE": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Extended_Central_Dogma_with_Enzymes.jpg",
+        "TEXT": "Molecular biology is a branch of biology that seeks to understand the molecular structures and chemical processes that are the basis of biological activity within and between cells. It is centered largely on the study of nucleic acids (such as DNA and RNA) and proteins. It examines the structure, function, and interactions of these macromolecules as they orchestrate processes such as replication, transcription, translation, protein synthesis, and complex biomolecular interactions. The field of molecular biology is multi-disciplinary, relying on principles from genetics, biochemistry, physics, mathematics, and more recently computer science (bioinformatics)."
+    }
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Two_Content"
+    "PAGE_TITLE":"History of molecular biology"
+    "PAGE_CONTENT": {
+        "TEXT":"Molecular biology sits at the intersection of biochemistry and genetics; as these scientific disciplines emerged and evolved in the 20th century, it became clear that they both sought to determine the molecular mechanisms that underlie vital cellular functions. Advances in molecular biology have been closely related to the development of new technologies and their optimization.",
+        "TEXT":"The field of genetics arose from attempts to understand the set of rules underlying reproduction and heredity, and the nature of the hypothetical units of heredity known as genes. Gregor Mendel pioneered this work in 1866, when he first described the laws of inheritance he observed in his studies of mating crosses in pea plants. One such law of genetic inheritance is the law of segregation, which states that diploid individuals with two alleles for a particular gene will pass one of these alleles to their offspring. Because of his critical work, the study of genetic inheritance is commonly referred to as Mendelian genetics."
+    }        
+},
+
+
+"PAGE":{
+    "PAGE_LAYOUT":"Two_Content"
+    "PAGE_TITLE":"Growth Strategy"
+    "PAGE_CONTENT": {
+        "BULLET":[
+            "Market Penetration: Selling more of your existing products to your existing market. This is the safest approach, often achieved by lowering prices, increasing distribution, or ramping up promotional support",
+            "Market Development: Taking your existing products and introducing them to new markets. This includes targeting new demographics or expanding geographically"
+        ],
+        "BULLET":[
+            "Product Development: Launching new products to your existing market base. This involves R&D to meet unaddressed needs of your current customers.",
+            "Diversification: Developing new products for new markets. This is the riskiest but potentially highest-reward strategy, often requiring mergers or acquisitions."
+        ]
+    }        
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Single_Content"
+    "PAGE_TITLE":"Proguct Growth Ansoff Matrix"
+    "PAGE_CONTENT": {
+        "PICTURE":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJnAXbTfvgoTgSXgznpOVTmnL2j9vSbxPcfvQZWvxia2Y2ss8KvDXXs8&s=10"
+    }        
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Table_Content"
+    "PAGE_TITLE":"Financials"
+    "PAGE_CONTENT": {
+        "TABLE":[
+            ["Quater","Revenue","Expenses","Net profit"],
+            ["Q1","$200,000","$150,000","$50,000"],
+            ["Q2","$200,000","$150,000","$50,000"],
+            ["Q3","$200,000","$150,000","$50,000"],
+            ["Q4","$200,000","$150,000","$50,000"]
+        ]
+    }
+},
+
+"PAGE":{
+    "PAGE_LAYOUT":"Two_Content"
+    "PAGE_TITLE":"Summary"
+    "PAGE_CONTENT": {
+        "BULLET":[
+            "With this product, Adatum Corporation is positioned for success in the dynamic market.", 
+            "With a focus on innovation, user experience, and strategic growth, we anticipate reaching new heights in the coming year.",
+            "Our commitment to user satisfaction underscores every aspect of our operations"
+        ],
+        "BULLET":[
+            "Strong market positioning",
+            "Robust growth strategy",
+            "Innovative product development",
+            "Commitment to user satisfaction"
+        ]
+    }        
+}
