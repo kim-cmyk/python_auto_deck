@@ -1,0 +1,114 @@
+{
+    "//": "THEME: Bright1|Bright2|Bright3|Dark1|Dark2|Dark3",
+    "//layout": "Title|Section|Single_Content|Two_Content|Tree_Content|Four_Content|Picture_Content|Table_Content",
+
+    "HEADER": {
+        "LOGO_LINK": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+        "THEME": "Bright1",
+        "FONT_HEADINGS": "Calibri Light",
+        "FONT_BODY": "Calibri",
+        "PAGE_NUMBER": true
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Title",
+        "PAGE_TITLE": "Scientific Discovery",
+        "PAGE_SUBTITLE": "Molecular biology"
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Single_Content",
+        "PAGE_TITLE": "Agenda",
+        "PAGE_CONTENT": {
+            "BULLET": [
+                "About us",
+                "Product overview",
+                "History of molecular biology",
+                "Growth strategy",
+                "Financials",
+                "Summary"
+            ]
+        }
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Section",
+        "PAGE_TITLE": "Product Overview",
+        "PAGE_SUBTITLE": "What we study and why it matters"
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Picture_Content",
+        "PAGE_TITLE": "The Central Dogma",
+        "PAGE_CONTENT": [
+            { "PICTURE": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Extended_Central_Dogma_with_Enzymes.jpg" },
+            { "TEXT": "Molecular biology seeks to understand the molecular structures and chemical processes underlying biological activity within and between cells. It centers on nucleic acids (DNA, RNA) and proteins, and how they orchestrate replication, transcription and translation." }
+        ]
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Two_Content",
+        "PAGE_TITLE": "History of Molecular Biology",
+        "PAGE_CONTENT": [
+            { "TEXT": "Molecular biology sits at the intersection of biochemistry and genetics. As these disciplines evolved through the 20th century it became clear they both sought the molecular mechanisms behind vital cellular functions." },
+            { "BULLET": [
+                "1866 - Mendel describes the laws of inheritance",
+                "1953 - Watson & Crick, the DNA double helix",
+                "1970s - Recombinant DNA technology",
+                "2003 - Human Genome Project completed"
+            ] }
+        ]
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Tree_Content",
+        "PAGE_TITLE": "Three Pillars",
+        "PAGE_CONTENT": [
+            { "BULLET": ["Structure", "X-ray crystallography", "Cryo-EM"] },
+            { "BULLET": ["Function", "Enzyme kinetics", "Signalling"] },
+            { "BULLET": ["Interactions", "Protein-protein", "Protein-DNA"] }
+        ]
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Four_Content",
+        "PAGE_TITLE": "Growth Strategy - Ansoff Matrix",
+        "PAGE_CONTENT": [
+            { "TEXT": "Market Penetration: sell more existing products to existing markets. The safest approach." },
+            { "TEXT": "Market Development: bring existing products to new markets and demographics." },
+            { "TEXT": "Product Development: launch new products to the existing customer base." },
+            { "TEXT": "Diversification: new products for new markets - highest risk, highest reward." }
+        ]
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Table_Content",
+        "PAGE_TITLE": "Financials",
+        "PAGE_CONTENT": {
+            "TABLE": [
+                ["Quarter", "Revenue", "Expenses", "Net profit"],
+                ["Q1", "$200,000", "$150,000", "$50,000"],
+                ["Q2", "$220,000", "$155,000", "$65,000"],
+                ["Q3", "$240,000", "$160,000", "$80,000"],
+                ["Q4", "$260,000", "$165,000", "$95,000"]
+            ]
+        }
+    },
+
+    "PAGE": {
+        "PAGE_LAYOUT": "Two_Content",
+        "PAGE_TITLE": "Summary",
+        "PAGE_CONTENT": [
+            { "BULLET": [
+                "Positioned for success in a dynamic market.",
+                "Focus on innovation, user experience and strategic growth.",
+                "Commitment to user satisfaction across operations."
+            ] },
+            { "BULLET": [
+                "Strong market positioning",
+                "Robust growth strategy",
+                "Innovative product development"
+            ] }
+        ]
+    }
+}
