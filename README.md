@@ -42,6 +42,8 @@ If a value is missing, defaults are used: `THEME=Bright1`, fonts `Calibri Light`
 `Bright1` corporate blue · `Bright2` teal/green · `Bright3` burgundy/slate
 `Dark1` navy · `Dark2` charcoal + gold · `Dark3` deep green
 
+![Theme colors](theme.jpg)
+
 ### PAGE — supported `PAGE_LAYOUT` values
 | Layout | Used for | Content (`PAGE_CONTENT`) |
 |--------|----------|---------------------------|
